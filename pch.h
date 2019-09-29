@@ -12,7 +12,7 @@
 #include <string>
 #include <cctype>
 #include <iostream>
-#include <iterator>
+include <iterator>
 #include <stdexcept>
 #include <cassert>
 #include <fstream>
