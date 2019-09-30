@@ -20,7 +20,7 @@ include <iterator>
 using namespace std;
 using std::cin;
 //using fix分支
-//using std::cout;
+
 //using std::endl;
 //using std::vector;
 //using std::string;
